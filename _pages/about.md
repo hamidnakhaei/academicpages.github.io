@@ -29,8 +29,8 @@ Honors
 
 Teaching Experience 
 ------
-- Operations Research 2  _Spring 2022, Fall 2022_
-- Theory of Probability and Its Applications  _Fall 2021, Spring 2022_
-- Data-Driven Modelling and Decision Making  _Spring 2022_
-- Microeconomics1 _Fall 2021_
+- Operations Research 2  (_Spring 2022, Fall 2022_)
+- Theory of Probability and Its Applications  (_Fall 2021, Spring 2022_)
+- Data-Driven Modelling and Decision Making  (_Spring 2022_)
+- Microeconomics1 (_Fall 2021_)
 
