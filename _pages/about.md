@@ -19,7 +19,8 @@ Education
 ------
 _2020 – 2023_ M.Sc. in Industrial Engineering - Macro Systems <br />
 - **Thesis Topic**: A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran Electrical Power Grid)<br />
-- GPA: 4/4
+- GPA: 4/4<br />
+
 _2017 - 2020_ M.Sc. in Mechanical Engineering - Applied Design<br />
 _2013 - 2017_ B.Sc. in Mechanical Engineering
 
