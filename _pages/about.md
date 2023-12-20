@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I have education background in mechanical engineering. However, In one of my Mechanical projects when I started learning about machine learning, It was so attractive for me. I embarked on learning more about Data science and watched a bunch of online courses. 
 
 My research interests include:
 - Pricing and Revenue Management
@@ -17,10 +17,10 @@ My research interests include:
 
 Education
 ------
-- M.Sc. in Industrial Engineering - Macro Systems
+- M.Sc. in Industrial Engineering - Macro Systems, _2020 – 2023_
     - **Thesis Topic**: A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran Electrical Power Grid)
-- M.Sc. in Mechanical Engineering - Applied Design
-- B.Sc. in Mechanical Engineering 
+- M.Sc. in Mechanical Engineering - Applied Design, _2017 - 2020_
+- B.Sc. in Mechanical Engineering, _2013 - 2017_
 
 Honors
 ------
@@ -34,3 +34,16 @@ Teaching Experience
 - Data-Driven Modelling and Decision Making  (_Spring 2022_)
 - Microeconomics1 (_Fall 2021_)
 
+Professional Experience 
+------
+**Strategic Senior Specialist**
+  Solico Group, Tehran, Iran.
+  Sep. 2022 - July 2023
+  
+**Executive Team Member**
+Sharif Entrepreneurship Center, Tehran, Iran.
+Jan. 2016 - Dec. 2017
+
+**Intern (Production Department)**
+Iran Khodro Company (IKCO), Tehran, Iran.
+July 2015 - Sep. 2015
