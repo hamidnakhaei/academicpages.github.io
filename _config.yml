@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Hamid Nakhaei"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Hamid Nakhaei"
 description              : &description "personal description"
 url                      : https://hamidnakhaei.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
