@@ -22,16 +22,15 @@ Education
 - M.Sc. in Mechanical Engineering - Applied Design
 - B.Sc. in Mechanical Engineering 
 
-HONORS
+Honors
 ------
-- Ranked **1st** among the graduating class of 2022, Industrial Engineering Department, SUT 2022
-- Ranked **4th** in the Iranian University Entrance Exam for master’s degree in Industrial Engineering 2020
+- Ranked **1<sup>st</sup>** among the class of 2022, Industrial Engineering Department, SUT 2022
+- Ranked **4<sup>th</sup>** in the University Entrance Exam for master’s degree in Industrial Engineering 2020
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Teaching Experience 
+------
+- Operations Research 2  _Spring 2022, Fall 2022_
+- Theory of Probability and Its Applications  _Fall 2021, Spring 2022_
+- Data-Driven Modelling and Decision Making  _Spring 2022_
+- Microeconomics1 _Fall 2021_
 
