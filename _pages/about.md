@@ -17,10 +17,10 @@ My research interests include:
 
 Education
 ------
-- M.Sc. in Industrial Engineering - Macro Systems, _2020 – 2023_
-    - **Thesis Topic**: A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran Electrical Power Grid)
-- M.Sc. in Mechanical Engineering - Applied Design, _2017 - 2020_
-- B.Sc. in Mechanical Engineering, _2013 - 2017_
+_2020 – 2023_M.Sc. in Industrial Engineering - Macro Systems <br />
+**Thesis Topic**: A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran Electrical Power Grid)<br />
+_2017 - 2020_: M.Sc. in Mechanical Engineering - Applied Design<br />
+_2013 - 2017_: B.Sc. in Mechanical Engineering
 
 Honors
 ------
