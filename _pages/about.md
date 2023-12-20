@@ -36,14 +36,14 @@ Teaching Experience
 
 Professional Experience 
 ------
-**Strategic Senior Specialist**
-  Solico Group, Tehran, Iran.
+**Strategic Senior Specialist**<br />
+  Solico Group, Tehran, Iran.<br />
   Sep. 2022 - July 2023
   
-**Executive Team Member**
-Sharif Entrepreneurship Center, Tehran, Iran.
+**Executive Team Member**<br />
+Sharif Entrepreneurship Center, Tehran, Iran.<br />
 Jan. 2016 - Dec. 2017
 
-**Intern (Production Department)**
-Iran Khodro Company (IKCO), Tehran, Iran.
+**Intern (Production Department)**<br />
+Iran Khodro Company (IKCO), Tehran, Iran.<br />
 July 2015 - Sep. 2015
