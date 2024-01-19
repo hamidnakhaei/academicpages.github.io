@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://hamidnakhaei.github.io/CV_Parisa.pdf" type="application/pdf" />
+<embed src="https://hamidnakhaei.github.io/HamidNakhaeiCV.pdf" type="application/pdf" />
