@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://hamidnakhaei.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hamidnakhaei/hamidnakhaei.github.io"
-teaser                   :  "1.jpeg"
+teaser                   :  "img.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hamid Nakhaei"
-  avatar           : "1.jpeg"
+  avatar           : "img.png"
   bio              : ""
   location         : "Toronto, ON"
   employer         :
