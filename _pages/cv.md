@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="CV_Parisa.pdf" width="1000" height="1000" type='application/pdf'/></object>
+<embed src="https://hamidnakhaei.github.io/CV_Parisa.pdf" type="application/pdf" />
