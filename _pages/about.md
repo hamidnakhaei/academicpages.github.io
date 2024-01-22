@@ -8,20 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I have education background in Mechanical Engineering. I also hold a master's degree in Industrial Engineering from Sharif University of Technology. I would like to start a PhD program and, afterwards, get into the academia.
-My research interests include:
-- Pricing and Revenue Management
-- Optimization under Uncertainty
-- Statistical Analysis
+I recently graduated from Sharif University of Technology with a master's degree in Industrial Engineering. My master's thesis employs a reinforcement learning approach for dynamic pricing in the electricity retail market, with Iran’s power grid as a case study. My research interest is at the interface of statistical analysis and optimization under uncertainty in the areas of pricing and revenue management.
 
-Education
-------
-_2020 – 2023_ M.Sc. in Industrial Engineering - Macro Systems <br />
-- **Thesis Topic**: A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran's Electrical Power Grid)<br />
-- GPA: 4/4<br />
-
-_2017 - 2020_ M.Sc. in Mechanical Engineering - Applied Design<br />
-_2013 - 2017_ B.Sc. in Mechanical Engineering
 
 Honors
 ------
