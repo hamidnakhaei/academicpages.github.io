@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from Sharif University of Technology with a master's degree in Industrial Engineering. My master's thesis employs a reinforcement learning approach for dynamic pricing in the electricity retail market, with Iran’s power grid as a case study. My research interest is at the interface of statistical analysis and optimization under uncertainty in the areas of pricing and revenue management. \
+I recently graduated from Sharif University of Technology with a master's degree in Industrial Engineering. My master's thesis employs a reinforcement learning approach for dynamic pricing in the electricity retail market, with Iran’s power grid as a case study. My research interest is at the interface of statistical analysis and optimization under uncertainty in the areas of pricing and revenue management.
 
 
 # Research {#research}
@@ -16,33 +16,33 @@ I recently graduated from Sharif University of Technology with a master's degree
 ### Working Papers
 <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
-  Drafting, 2024 \
+  Drafting, 2024 
   
 ### Theses
 
 <span style="color:#088F8F">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Scored "very good", 2023 \
-  [[**PDF**]](/files/English.pdf) \
+  [[**PDF**]](/files/English.pdf) 
 
 <span style="color:#088F8F">**1. Mechanical Design and Fabrication of a Parallel Hybrid Vehicle Powertrain Simulator**</span> \
   with [Mahmoud Saadat Foumani](https://scholar.google.com/citations?hl=en&user=20cCIVAAAAAJ) \
-  Scored "perfect", 2020 \
+  Scored "perfect", 2020 
   
 Teaching Experience {#teaching}
 ------
-- **21-712 Operations Research 2** (Graduate & Undergraduate), Sharif University of Technology
+- **21-712 Operations Research 2** (Graduate & Undergraduate), Sharif University of Technology\
   *Spring 2022*: Teaching Assistant (Instructor: [Mohammad Modarres Yazdis](https://sina.sharif.edu/~modarres/)) \
-  *Fall 2022*: Teaching Assistant (Instructor: [Mohammad Modarres Yazdis](https://sina.sharif.edu/~modarres/)) \
-- **21-011 Theory of Probability and Its Applications** (Undergraduate), Sharif University of Technology
+  *Fall 2022*: Teaching Assistant (Instructor: [Mohammad Modarres Yazdis](https://sina.sharif.edu/~modarres/)) 
+- **21-011 Theory of Probability and Its Applications** (Undergraduate), Sharif University of Technology\
   *Fall 2021*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
-  *Spring 2022*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
-- **21-022 Operations Analytics** (Graduate), Sharif University of Technology
+  *Spring 2022*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) 
+- **21-022 Operations Analytics** (Graduate), Sharif University of Technology\
   *Spring 2022*: Teaching Assistant (Instructor: [Nafiseh Sedghi](http://ie.sharif.ir/~ieweb/?p=faculty/sedghi)) \
   *Spring 2022*: Guest Lecturer (Instructor: [Nafiseh Sedghi](http://ie.sharif.ir/~ieweb/?p=faculty/sedghi)) \
   *Title*: Data Visualization in R
 - **21-114 Microeconomics 1** (Undergraduate), Sharif University of Technology
-  *Fall 2021*: Teaching Assistant (Instructor: [Mohammad Vesals](https://gsme.sharif.edu/~vesal/)) \
+  *Fall 2021*: Teaching Assistant (Instructor: [Mohammad Vesals](https://gsme.sharif.edu/~vesal/)) 
 
 Industry {#industry}
 ------
