@@ -3,9 +3,9 @@ title: ""
 collection: teaching
 type: "Workshop"
 permalink: /teaching/teachin_md
-venue: ""
-date: 
-location: ""
+venue: "a"
+date: 1
+location: "a"
 ---
 
 My fals;kdjfal skflkasdh flk;asdjf ;lkjasd;kjf ;
