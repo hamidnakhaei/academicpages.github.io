@@ -15,18 +15,19 @@ I recently graduated from Sharif University of Technology with a master's degree
 ______
 ## Working Papers
 - <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
-  with Shahram Shadrokh \
+  with [Shahram Shadrokh] (http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Drafting, 2024
   
 ## Theses
 
 - <span style="color:#088F8F">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
-  with Shahram Shadrokh \
-  Scored "very good", 2023
+  with [Shahram Shadrokh] (http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
+  Scored "very good", 2023 \
+  [[pdf]] (/files/English.pdf)
   
 
 - <span style="color:#088F8F">**1. Mechanical Design and Fabrication of a Parallel Hybrid Vehicle Powertrain Simulator**</span> \
-  with Mahmoud Saadat Foumani \
+  with [Mahmoud Saadat Foumani] (https://scholar.google.com/citations?hl=en&user=20cCIVAAAAAJ) \
   Scored "perfect", 2020
   
 Teaching Experience {#teaching}
