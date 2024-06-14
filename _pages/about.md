@@ -11,7 +11,7 @@ redirect_from:
 I recently graduated from Sharif University of Technology with a master's degree in Industrial Engineering. My master's thesis employs a reinforcement learning approach for dynamic pricing in the electricity retail market, with Iran’s power grid as a case study. My research interest is at the interface of statistical analysis and optimization under uncertainty in the areas of pricing and revenue management.
 
 
-Honors {#research}
+Research {#research}
 ------
 - Ranked **1<sup>st</sup>** among the class of 2022, Industrial Engineering Department, SUT 2022
 - Ranked **4<sup>th</sup>** in the University Entrance Exam for master’s degree in Industrial Engineering 2020
