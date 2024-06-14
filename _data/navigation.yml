@@ -8,7 +8,7 @@ main:
     url: /#teaching  
 
   - title: "Industry"
-    url: /#industry/
+    url: /#industry
     
   - title: "Portfolio" #This was previously named Portfolio
     url: /portfolio/
