@@ -5,9 +5,4 @@ permalink: /industry/
 author_profile: true
 ---
 
-# My publications go here!
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+My publications go here!
