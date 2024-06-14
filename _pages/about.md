@@ -14,18 +14,18 @@ I recently graduated from Sharif University of Technology with a master's degree
 # Research {#research}
 ---
 ## Working Papers
-<span style="color:#088F8F">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
+<span style="color: black">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Drafting, 2024 
   
 ## Theses
 
-<span style="color:#088F8F">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
+<span style="color: black">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Scored "very good", 2023 \
   [[**PDF**]](/files/English.pdf) 
 
-<span style="color:#088F8F">**1. Mechanical Design and Fabrication of a Parallel Hybrid Vehicle Powertrain Simulator**</span> \
+<span style="color: black">**1. Mechanical Design and Fabrication of a Parallel Hybrid Vehicle Powertrain Simulator**</span> \
   with [Mahmoud Saadat Foumani](https://scholar.google.com/citations?hl=en&user=20cCIVAAAAAJ) \
   Scored "perfect", 2020 
   
@@ -47,16 +47,16 @@ Teaching Experience {#teaching}
 - **21-114 Microeconomics 1** (Undergraduate), Sharif University of Technology \
   *Fall 2021*: Teaching Assistant (Instructor: [Mohammad Vesals](https://gsme.sharif.edu/~vesal/)) 
 
-Industry {#industry}
+Industry Experience {#industry}
 ------
-**Sales Planning Analyst**<br />
-  Solico Group, Tehran, Iran.<br />
-  Sep. 2022 - July 2023
+- **Sales Planning Analyst** <br />
+  Solico Group, Tehran, Iran. <br />
+  Sep. 2022 - Jul. 2023
   
-**Executive Team Member**<br />
+- **Executive Team Member**<br />
 Sharif Entrepreneurship Center, Tehran, Iran.<br />
 Jan. 2016 - Dec. 2017
 
-**Intern (Production Department)**<br />
+- **Intern (Production Department)**<br />
 Iran Khodro Company (IKCO), Tehran, Iran.<br />
 July 2015 - Sep. 2015
