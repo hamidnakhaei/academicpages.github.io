@@ -14,8 +14,8 @@ I recently graduated from Sharif University of Technology with a master's degree
 # Research {#research}
 ------
 ## Working Papers
-3\. **Robust Confidence Bands for Simulation Outputs**\
-- <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Dynamic Pricing**</span> (2022, 2023), Teaching Assistant \
+3\. **Robust Confidence Bands for Simulation Outputs**
+- <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> (2022, 2023), Teaching Assistant \
    Senior undergraduate class in end-to-end analytics, University of Toronto.
 
 - <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024), Teaching Assistant \
