@@ -41,7 +41,7 @@ Teaching Experience {#teaching}
   *Spring 2022*: Teaching Assistant (Instructor: [Nafiseh Sedghi](http://ie.sharif.ir/~ieweb/?p=faculty/sedghi)) \
   *Spring 2022*: Guest Lecturer (Instructor: [Nafiseh Sedghi](http://ie.sharif.ir/~ieweb/?p=faculty/sedghi)) \
   *Title*: Data Visualization in R
-- **21-114 Microeconomics 1** (Undergraduate), Sharif University of Technology
+- **21-114 Microeconomics 1** (Undergraduate), Sharif University of Technology \
   *Fall 2021*: Teaching Assistant (Instructor: [Mohammad Vesals](https://gsme.sharif.edu/~vesal/)) 
 
 Industry {#industry}
