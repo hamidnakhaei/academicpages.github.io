@@ -10,8 +10,8 @@ main:
   - title: "Portfolio" #This was previously named Portfolio
     url: /portfolio/
 
-#    - title: "Industry"
-#    url: /industry/
+    - title: "Industry"
+    url: /industry/
     
   - title: "CV" 
     url: /files/CV_Hamid.pdf
