@@ -54,7 +54,8 @@ Industry Experience {#industry}
   _Manager_: [Hadi Bitalebi](https://www.linkedin.com/in/hadibitalebi/) <br />
   _Supervisor_: [Hamdid Jahanian](https://www.linkedin.com/in/hamidjahanian/) <br />
   _Description_: <br />
-    - Commission Simulation: The simulation of a new commission structure governing all sales personel compensation in the Solico Group. This work was done in collaboratiob with the SAP, Sales plannign, strategic planning, financial planning, and human resourse teams.
+    - Commission Simulation: The simulation of a new commission structure governing all sales personel compensation in the Solico Group. The goal was to evaluate and provide managerial insights on the new commission structure, in terms of its impact on sales force compensation and sales growth, before implementation. During this phase, top-level managers of the company were advised about the new structure using a well-developed simulation, and they were able to decide the best structure to enact. This work was done in collaboratiob with the SAP, Sales plannign, strategic planning, financial planning, and human resourse teams.
+    - Commission Calculation: After passing the satisfactory commission structure, I undertook the process of implementing and calculating the new structure for the first month. After fixing some bugs, the project was handed over to the commission team. 
     - Data Visualizatoin: Colaborating with Regonal Sales Planners in data visualizations and providing insight from it <br />
   Sep. 2022 - Jul. 2023
   
