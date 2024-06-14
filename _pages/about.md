@@ -11,10 +11,19 @@ redirect_from:
 I recently graduated from Sharif University of Technology with a master's degree in Industrial Engineering. My master's thesis employs a reinforcement learning approach for dynamic pricing in the electricity retail market, with Iran’s power grid as a case study. My research interest is at the interface of statistical analysis and optimization under uncertainty in the areas of pricing and revenue management.
 
 
-Research {#research}
+# Research {#research}
 ------
-- Ranked **1<sup>st</sup>** among the class of 2022, Industrial Engineering Department, SUT 2022
-- Ranked **4<sup>th</sup>** in the University Entrance Exam for master’s degree in Industrial Engineering 2020
+## Working Papers
+3\. **Robust Confidence Bands for Simulation Outputs**\
+- <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Dynamic Pricing**</span> (2022, 2023), Teaching Assistant \
+   Senior undergraduate class in end-to-end analytics, University of Toronto.
+
+- <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024), Teaching Assistant \
+   Graduate class in stochastic modeling and simulation, University of Toronto.
+
+- <span style="color:#088F8F">**Volunteer Instructor for Statistics Without Borders**</span> (2023) \
+   Topic: Machine learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
+## Theses
 
 Teaching Experience {#teaching}
 ------
