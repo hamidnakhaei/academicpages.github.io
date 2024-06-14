@@ -16,7 +16,7 @@ I recently graduated from Sharif University of Technology with a master's degree
 ## Working Papers
 <span style="color: black">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
-  Drafting, 2024 
+  Work in progress, 2024 
   
 ## Theses
 
@@ -58,10 +58,15 @@ Industry Experience {#industry}
     - Commission Calculation: After the commission structure was enacted, I undertook the process of implementing and calculating the new structure for the first month. Following the identification and resolution of some bugs, the project was handed over to the commission team.
     - Data Visualization: Collaborated with regional sales planners on data visualization and provided insights derived from the visualized data. <br />
   
-- **Executive Team Member**<br />
+- **Executive Team Member** <br />
 _Sharif Entrepreneurship Center, Tehran, Iran._ Jan. 2016 - Dec. 2017 <br />
 _Manager_: [Arezo Nasiri](https://www.linkedin.com/in/arezoonasiri/)
+_Description_: <br />
+  - Holding Events: provided students with mentoring services, helped them with team building, etc. I was in the executive team and became the head of the team eventually. <br />
 
 - **Intern (Production Department)**<br />
 _Iran Khodro Company (IKCO), Tehran, Iran._ July 2015 - Sep. 2015 <br />
+_Description_: <br />
+  - Piping Project: Worked at the body shell production line, during which I solved a piping problem for the production line. <br /> 
+
 
