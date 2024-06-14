@@ -1,5 +1,13 @@
 # main links links
 main:
+  - title: "Thesis"
+    url: /publications/ 
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Projects"
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
