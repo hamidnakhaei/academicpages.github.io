@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: 
 venue: ""
-date: 
+date: 2024-01-01
 location: ""
 ---
 
