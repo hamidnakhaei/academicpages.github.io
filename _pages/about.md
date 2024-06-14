@@ -14,17 +14,18 @@ I recently graduated from Sharif University of Technology with a master's degree
 # Research {#research}
 ------
 ## Working Papers
-3\. **Robust Confidence Bands for Simulation Outputs**
-- <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> (2022, 2023), Teaching Assistant \
-   Senior undergraduate class in end-to-end analytics, University of Toronto.
-
-- <span style="color:#088F8F">**MIE 1613: Stochastic Simulation**</span> (2023, 2024), Teaching Assistant \
-   Graduate class in stochastic modeling and simulation, University of Toronto.
-
-- <span style="color:#088F8F">**Volunteer Instructor for Statistics Without Borders**</span> (2023) \
-   Topic: Machine learning ([link to online video lesson](https://youtu.be/ks2dPgtqq5M))
+- <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
+  with Shahram Shadrokh, drafting, 2024
+  
 ## Theses
 
+- <span style="color:#088F8F">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
+  with Shahram Shadrokh, scored very good, 2023
+  
+
+- <span style="color:#088F8F">**1. Mechanical Design and Fabrication of a Parallel Hybrid Vehicle Powertrain Simulator**</span> \
+  with Mahmoud Saadat Foumani, scored perfect, 2020
+  
 Teaching Experience {#teaching}
 ------
 - Operations Research 2  (_Spring 2022, Fall 2022_)
