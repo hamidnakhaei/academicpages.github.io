@@ -2,10 +2,10 @@
 title: ""
 collection: teaching
 type: "Workshop"
-permalink: /teaching/teachin_md
-venue: "a"
-date: 1
-location: "a"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
 ---
 
-My fals;kdjfal skflkasdh flk;asdjf ;lkjasd;kjf ;
+dsafsdafasdf asdf asdf as
