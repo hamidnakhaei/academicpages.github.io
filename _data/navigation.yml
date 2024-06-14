@@ -1,11 +1,17 @@
 # main links links
 main:
-  - title: "Thesis"  #this was previously named Publications. That's why I have _pulications folder and all other files related to publications. so If I want to make any changes to this tab,
+  - title: "Research"  #this was previously named Publications. That's why I have _pulications folder and all other files related to publications. so If I want to make any changes to this tab,
   #I just need to modify _publication page.
     url: /files/English.pdf
-
-  - title: "Projects" #This was previously named Portfolio
+    
+  - title: "Teaching"
+    url: /teaching/  
+    
+  - title: "Portfolio" #This was previously named Portfolio
     url: /portfolio/
+
+    - title: "Industry"
+    url: /industry/
     
   - title: "CV" 
     url: /files/CV_Hamid.pdf
