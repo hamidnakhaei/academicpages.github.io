@@ -50,13 +50,19 @@ Teaching Experience {#teaching}
 Industry Experience {#industry}
 ------
 - **Sales Planning Analyst** <br />
-  Solico Group, Tehran, Iran. <br />
+  _Solico Group, Tehran, Iran._ <br />
+  _Manager_: [Hadi Bitalebi](https://www.linkedin.com/in/hadibitalebi/) <br />
+  _Supervisor_: [Hamdid Jahanian](https://www.linkedin.com/in/hamidjahanian/) <br />
+  _Description_: <br />
+    - Commission Simulation: The simulation of a new commission structure governing all sales personel compensation in the Solico Group. This work was done in collaboratiob with the SAP, Sales plannign, strategic planning, financial planning, and human resourse teams.
+    - Data Visualizatoin: Colaborating with Regonal Sales Planners in data visualizations and providing insight from it <br />
   Sep. 2022 - Jul. 2023
   
 - **Executive Team Member**<br />
-Sharif Entrepreneurship Center, Tehran, Iran.<br />
+_Sharif Entrepreneurship Center, Tehran, Iran._ <br />
+_Manager_: [Arezo Nasiri](https://www.linkedin.com/in/arezoonasiri/)
 Jan. 2016 - Dec. 2017
 
 - **Intern (Production Department)**<br />
-Iran Khodro Company (IKCO), Tehran, Iran.<br />
+_Iran Khodro Company (IKCO), Tehran, Iran._ <br />
 July 2015 - Sep. 2015
