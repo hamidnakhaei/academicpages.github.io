@@ -3,9 +3,6 @@ main:
   - title: "Thesis"
     url: /publications/ 
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Projects"
     url: /portfolio/
     
