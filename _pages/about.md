@@ -16,14 +16,14 @@ Honors {#research}
 - Ranked **1<sup>st</sup>** among the class of 2022, Industrial Engineering Department, SUT 2022
 - Ranked **4<sup>th</sup>** in the University Entrance Exam for master’s degree in Industrial Engineering 2020
 
-Teaching Experience 
+Teaching Experience {#teaching}
 ------
 - Operations Research 2  (_Spring 2022, Fall 2022_)
 - Theory of Probability and Its Applications  (_Fall 2021, Spring 2022_)
 - Data-Driven Modelling and Decision Making  (_Spring 2022_)
 - Microeconomics 1 (_Fall 2021_)
 
-Professional Experience 
+Industry {#industry}
 ------
 **Sales Planning Analyst**<br />
   Solico Group, Tehran, Iran.<br />
