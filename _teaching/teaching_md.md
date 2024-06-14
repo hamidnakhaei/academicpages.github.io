@@ -3,9 +3,9 @@ title: ""
 collection: teaching
 type: "Workshop"
 permalink: 
-venue: "University 1, Department"
+venue: ""
 date: 2015-01-01
-location: "City, Country"
+location: ""
 ---
 
 dsafsdafasdf asdf asdf as
