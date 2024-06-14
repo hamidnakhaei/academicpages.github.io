@@ -13,12 +13,12 @@ I recently graduated from Sharif University of Technology with a master's degree
 
 # Research {#research}
 ---
-### Working Papers
+## Working Papers
 <span style="color:#088F8F">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Drafting, 2024 
   
-### Theses
+## Theses
 
 <span style="color:#088F8F">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
