@@ -1,1 +1,6 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+- "Thesis"  #this was ORiginally named Publications. That's why I have _pulications folder and all other files related to publications. so If I want to make any changes to this tab, I just need to modify _publication page.
+- "Projects" was previously named Portfolio
+- this videos will help :
+  - https://www.youtube.com/watch?v=8lJhXJCUYCc
+  - https://www.youtube.com/watch?v=D9CLhQdLp8w
+  - https://www.youtube.com/watch?v=qZsgPgGdOzQ
