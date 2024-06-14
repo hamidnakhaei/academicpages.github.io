@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "#Research"  #this was previously named Publications. That's why I have _pulications folder and all other files related to publications. so If I want to make any changes to this tab,
+  - title: "Research"  #this was previously named Publications. That's why I have _pulications folder and all other files related to publications. so If I want to make any changes to this tab,
   #I just need to modify _publication page.
     url: /#research
     
