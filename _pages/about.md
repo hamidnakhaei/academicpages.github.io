@@ -68,5 +68,5 @@ _Description_: <br />
 _Iran Khodro Company (IKCO), Tehran, Iran._ July 2015 - Sep. 2015 <br />
 _Description_: <br />
   - Piping Project: Worked at the body shell production line, during which I solved a piping problem for the production line. <br /> 
-
+![Kalleh](images/Kalleh_logo-en.png)
 
