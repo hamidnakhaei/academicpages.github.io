@@ -37,7 +37,7 @@ Teaching Experience {#teaching}
 - **21-011 Theory of Probability and Its Applications** (Undergraduate), Sharif University of Technology\
   *Fall 2021*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
   *Spring 2022*: Teaching Assistant (Instructor: [Seyed Taghi Akhavan Niaki](https://sina.sharif.edu/~niaki/)) \
-  <br \>
+  <br />
   **Student Testimonial**:
   > Your very good manners were one of the great qualities that attracted people to the class. The extra problems that were solved really helped us. Overall, it's a difficult subject, 
   > but with your problem solving classes, everything was excellent. Thank you.
@@ -50,8 +50,8 @@ Teaching Experience {#teaching}
 
 Industry Experience {#industry}
 ------
-- **Sales Planning Analyst** <br />
-  _Solico Group, Tehran, Iran._ Sep. 2022 - Jul. 2023 <br />
+- **Sales Planning Analyst**, Sep. 2022 - Jul. 2023 <br />
+  _Solico Group, Tehran, Iran._ <br />
   _Manager_: [Hadi Bitalebi](https://www.linkedin.com/in/hadibitalebi/) <br />
   _Supervisor_: [Hamid Jahanian](https://www.linkedin.com/in/hamidjahanian/) <br />
   _Description_: <br />
@@ -59,14 +59,14 @@ Industry Experience {#industry}
     - Commission Calculation: After the commission structure was enacted, I undertook the process of implementing and calculating the new structure for the first month. Following the identification and resolution of some bugs, the project was handed over to the commission team.
     - Data Visualization: Collaborated with regional sales planners on data visualization and provided insights derived from the visualized data. <br />
   
-- **Executive Team Member** <br />
-_Sharif Entrepreneurship Center, Tehran, Iran._ Jan. 2016 - Dec. 2017 <br />
+- **Executive Team Member**, Jan. 2016 - Dec. 2017 <br />
+_Sharif Entrepreneurship Center, Tehran, Iran._ <br />
 _Manager_: [Arezo Nasiri](https://www.linkedin.com/in/arezoonasiri/) <br />
 _Description_: <br />
   - Holding Events: provided students with mentoring services, helped them with team building, etc. I was in the executive team and became the head of the team eventually. <br />
 
-- **Intern (Production Department)**<br />
-_Iran Khodro Company (IKCO), Tehran, Iran._ July 2015 - Sep. 2015 <br />
+- **Intern (Production Department)**, July 2015 - Sep. 2015 <br />
+_Iran Khodro Company (IKCO), Tehran, Iran._ <br />
 _Description_: <br />
   - Piping Project: Worked at the body shell production line, during which I solved a piping problem for the production line. <br />
 <br />
