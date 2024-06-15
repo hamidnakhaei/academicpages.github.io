@@ -60,13 +60,15 @@ Industry Experience {#industry}
   
 - **Executive Team Member** <br />
 _Sharif Entrepreneurship Center, Tehran, Iran._ Jan. 2016 - Dec. 2017 <br />
-_Manager_: [Arezo Nasiri](https://www.linkedin.com/in/arezoonasiri/)
+_Manager_: [Arezo Nasiri](https://www.linkedin.com/in/arezoonasiri/) <br />
 _Description_: <br />
   - Holding Events: provided students with mentoring services, helped them with team building, etc. I was in the executive team and became the head of the team eventually. <br />
 
 - **Intern (Production Department)**<br />
 _Iran Khodro Company (IKCO), Tehran, Iran._ July 2015 - Sep. 2015 <br />
 _Description_: <br />
-  - Piping Project: Worked at the body shell production line, during which I solved a piping problem for the production line. <br /> 
-![Kalleh](images/Kalleh_logo-en.png)
-
+  - Piping Project: Worked at the body shell production line, during which I solved a piping problem for the production line. <br />
+<br />
+![Kalleh](images/solico_group_logo.png)
+![entrepreneurship](images/entrepreneurship_center_of_sharif_university_of_technology_logo.png)
+![IKCO](images/Iran_Khodro_logo.svg.png)
