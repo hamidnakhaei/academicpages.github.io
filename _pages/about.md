@@ -61,9 +61,10 @@ Industry Experience {#industry}
   
 - **Executive Team Member**, Jan. 2016 - Dec. 2017 <br />
 _Sharif Entrepreneurship Center, Tehran, Iran._ <br />
-_Manager_: [Arezo Nasiri](https://www.linkedin.com/in/arezoonasiri/) <br />
+_Manager_: [Arezoo Nasiri](https://www.linkedin.com/in/arezoonasiri/) <br />
 _Description_: <br />
-  - Holding Events: provided students with mentoring services, helped them with team building, etc. I was in the executive team and became the head of the team eventually. <br />
+  - Providing Services: Provided students with mentoring services, helped them with team building, etc. <br />
+  - Holding Events: Handled the Executive part of lots of events. I was in the executive team and became the head of the team eventually. <br />
 
 - **Intern (Production Department)**, July 2015 - Sep. 2015 <br />
 _Iran Khodro Company (IKCO), Tehran, Iran._ <br />
