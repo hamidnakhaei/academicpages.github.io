@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Hamid. I am a prospective PhD student, looking for positions in Toronto and around. I completed my M.Sc. in Industrial Engineering at [Sharif University of Technology](https://en.sharif.edu/). Perior to that, I received my M.Sc. and B.Sc. in Mechanical Engineering from the same university. My recent M.Sc. thesis employs Markov decision process and a reinforcement learning approach for dynamic pricing in the electricity retail market.
+Hi, my name is Hamid. I am a prospective PhD student, looking for positions in Toronto and around. I completed my M.Sc. in Industrial Engineering at [Sharif University of Technology](https://en.sharif.edu/), being ranked first in my graduating class. Perior to that, I received my M.Sc. and B.Sc. in Mechanical Engineering from the same university. My recent M.Sc. thesis employs Markov decision process and a reinforcement learning approach for dynamic pricing in the electricity retail market.
 
-My primary research interests are in operations research, stochastic modelling, and data analytics, with applications in healthcare, healthcare operations, and pricing.
+My primary research interests are operations research, stochastic modelling, and data analytics, with applications in healthcare, healthcare operations, and pricing.
 
 # Research {#research}
 ---
