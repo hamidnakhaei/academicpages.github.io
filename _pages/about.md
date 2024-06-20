@@ -24,11 +24,12 @@ My primary research interests include operations research, stochastic modeling, 
 <span style="color: black">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Scored "very good", 2023 \
-  [[**PDF**]](/files/English.pdf) 
+  [[**PDF**]](/files/English.pdf), [[**Data**]](/files/English.pdf)
 
 <span style="color: black">**1. Mechanical Design and Fabrication of a Parallel Hybrid Vehicle Powertrain Simulator**</span> \
   with [Mahmoud Saadat Foumani](https://scholar.google.com/citations?hl=en&user=20cCIVAAAAAJ) \
-  Scored "perfect", 2020 
+  Scored "perfect", 2020 \
+  [[**Abstract**]](/files/Mech_MSc_Abs.pdf) 
   
 Teaching Experience {#teaching}
 ------
