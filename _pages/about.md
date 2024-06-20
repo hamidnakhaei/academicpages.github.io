@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated from Sharif University of Technology with a master's degree in Industrial Engineering. My master's thesis employs a reinforcement learning approach for dynamic pricing in the electricity retail market, with Iran’s power grid as a case study. My research interest is at the interface of statistical analysis and optimization under uncertainty in the areas of pricing and revenue management.
+Hi, mu name is Hamid. I am a prospective PhD student, looking for positions in Toronto and around. I completed my M.Sc. in Industrial Engineering and B.Sc. in Mechanical Engineering at [Sharif University of Technology](https://en.sharif.edu/). My M.Sc. thesis employs a reinforcement learning approach for dynamic pricing in the electricity retail market. My research interest is at the interface of statistical analysis and optimization under uncertainty in the areas of pricing and revenue management.
 
 
 # Research {#research}
