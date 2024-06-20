@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Hamid. I am a prospective Ph.D. student seeking opportunities in and around Toronto. I completed my M.Sc. in Industrial Engineering at [Sharif University of Technology](https://en.sharif.edu/), where I was ranked first in my graduating class. Prior to that, I received both my M.Sc. and B.Sc. in Mechanical Engineering from the same university. [My recent M.Sc. thesis](https://hamidnakhaei.github.io/files/English.pdf) develops a dynamic pricing framework for the electricity retail market using Markov decision processes and reinforcement learning.
+Hi, my name is Hamid. I am a prospective Ph.D. student seeking opportunities in and around Toronto. I completed my M.Sc. in Industrial Engineering at [Sharif University of Technology](https://en.sharif.edu/), where I was ranked first in my graduating class. Prior to that, I received both my M.Sc. and B.Sc. in Mechanical Engineering from the same university. [My recent M.Sc. thesis](https://hamidnakhaei.github.io/files/English.pdf) develops a dynamic pricing framework for the electricity retail market using the Markov decision process and reinforcement learning.
 
 My primary research interests include operations research, stochastic modeling, and data analytics, with applications in healthcare, healthcare operations, and pricing.
 
