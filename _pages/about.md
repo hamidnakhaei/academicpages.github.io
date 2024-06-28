@@ -14,7 +14,7 @@ My primary research interests include operations research, stochastic modeling, 
 
 # Research {#research}
 ---
-## Working Papers
+## Work in Progress
 <span style="color: black">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Work in progress, 2024 
