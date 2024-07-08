@@ -44,8 +44,7 @@ Teaching Experience {#teaching}
   > Your very good manners were one of the great qualities that attracted people to the class. The extra problems that were solved really helped us. Overall, it's a difficult subject, 
   > but with your problem solving classes, everything was excellent. Thank you.
 - **21-022 Operations Analytics** (Graduate), Sharif University of Technology\
-  *Spring 2022*: Teaching Assistant (Instructor: [Nafiseh Sedghi](http://ie.sharif.ir/~ieweb/?p=faculty/sedghi)) \
-  *Title*: Data Visualization in R
+  *Spring 2022*: Teaching Assistant (Instructor: [Nafiseh Sedghi](http://ie.sharif.ir/~ieweb/?p=faculty/sedghi))
 - **21-114 Microeconomics 1** (Undergraduate), Sharif University of Technology \
   *Fall 2021*: Teaching Assistant (Instructor: [Mohammad Vesal](https://gsme.sharif.edu/~vesal/)) 
 
