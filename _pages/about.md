@@ -21,7 +21,7 @@ My primary research interests include operations research, stochastic modeling, 
   
 ## Theses
 
-<span style="color: black">**2. A Reinforcement Learning Approach for Dynamic Pricing (Case Study: Iran’s Electrical Power Grid)**</span> \
+<span style="color: black">**2. A Reinforcement Learning Approach for Dynamic Pricing**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
   Scored "very good", 2023 \
   [[**PDF**]](/files/English.pdf), [[**Data**]](https://github.com/Hamid-Nakhaei/elect_pricing)
