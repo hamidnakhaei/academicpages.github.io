@@ -8,28 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Hamid. I am a prospective Ph.D. student seeking opportunities in and around Toronto. I completed my M.Sc. in Industrial Engineering at [Sharif University of Technology](https://en.sharif.edu/), where I was ranked first in my graduating class. Prior to that, I received both my M.Sc. and B.Sc. in Mechanical Engineering from the same university. [My recent M.Sc. thesis](https://hamidnakhaei.github.io/files/English.pdf) develops a dynamic pricing framework for the electricity retail market using the Markov decision process and reinforcement learning.
+Hi, my name is Hamid. I am a prospective Ph.D. student seeking opportunities in and around Toronto. I completed my M.Sc. in Industrial Engineering at [Sharif University of Technology](https://en.sharif.edu/), where I was ranked first in my graduating class. Prior to that, I received both my M.Sc. and B.Sc. in Mechanical Engineering from the same university. My recent M.Sc. thesis develops a dynamic pricing framework for the electricity retail market using the Markov decision process and reinforcement learning.
 
 My primary research interests include operations research, stochastic modeling, and reinforcement learning, with applications in healthcare operations and revenue management.
 
 # Research {#research}
----
-## Work in Progress
-<span style="color: black">**3. A Reinforcement Learning Approach for Demand Response Dynamic Pricing**</span> \
-  with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
-  Work in progress, 2024 
   
 ## Theses
 
 <span style="color: black">**2. A Reinforcement Learning Approach for Dynamic Pricing**</span> \
   with [Shahram Shadrokh](http://ie.sharif.ir/~ieweb/?p=faculty/shadrokh) \
-  Scored "very good", 2023 \
-  [[**PDF**]](/files/English.pdf), [[**Data**]](https://github.com/Hamid-Nakhaei/elect_pricing)
+  Scored "very good", 2023
 
 <span style="color: black">**1. Mechanical Design and Fabrication of a Parallel Hybrid Vehicle Powertrain Simulator**</span> \
   with [Mahmoud Saadat Foumani](https://scholar.google.com/citations?hl=en&user=20cCIVAAAAAJ) \
-  Scored "perfect", 2020 \
-  [[**Abstract**]](/files/Mech_MSc_Abs.pdf) 
+  Scored "perfect", 2020
   
 Teaching Experience {#teaching}
 ------
